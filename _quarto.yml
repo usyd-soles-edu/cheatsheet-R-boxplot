@@ -1,0 +1,17 @@
+project:
+  title: "boxplot"
+
+
+
+format:
+  html:
+    fontsize: 10pt
+    theme: 
+      light: matria
+      dark: slate
+    number-sections: true
+  pdf:
+    toc: false
+    fontsize: 11pt
+execute:
+  freeze: auto

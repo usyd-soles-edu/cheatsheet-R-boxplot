@@ -1,0 +1,5 @@
+/.quarto/
+.Rproj.user
+*_files/
+_site/
+_solution/
